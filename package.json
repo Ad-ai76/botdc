@@ -1,0 +1,27 @@
+{
+  "name": "IgnoraIsso",
+  "version": "0.0.1",
+  "description": "IgnoraIssoTambem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "es": "^0.7.3",
+    "espress": "0.0.0",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
